@@ -1,0 +1,4 @@
+- [x] Build six interactive KainGo ordering screens and reusable controls.
+- [x] Add a guide mapping all ten Nielsen heuristics to visible examples.
+- [x] Verify desktop and mobile presentation and interactions.
+- [x] Add optional in-app heuristic callouts explaining each demonstrated interaction.
